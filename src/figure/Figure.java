@@ -2,7 +2,7 @@ package figure;
 
 public abstract class Figure {
 
-    private String color;
+    private final String color;
 
     public Figure(String color) {
         this.color = color;

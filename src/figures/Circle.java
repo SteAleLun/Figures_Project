@@ -1,6 +1,6 @@
-package Figures;
+package figures;
 
-import Figure.Figure;
+import figure.Figure;
 
 public class Circle extends Figure {
 

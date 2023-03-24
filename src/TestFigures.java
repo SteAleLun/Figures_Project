@@ -1,7 +1,7 @@
-import Figure.Figure;
-import Figures.Circle;
-import Figures.Rectangle;
-import Figures.Triangle;
+import figure.Figure;
+import figures.Circle;
+import figures.Rectangle;
+import figures.Triangle;
 
 public class TestFigures {
     public static void main(String[] args) {
